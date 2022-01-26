@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frixdimedia
+- 👀 I’m interested in Microsoft Server and Azure Stack
+- 🌱 I’m currently learning Microsoft Server AD, SCCM and PowerShell Scripting
+- 💞️ I have foundet a Startup in Germany/BW in which we are setting up Schools IT
