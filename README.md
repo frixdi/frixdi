@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frixdi
 - 👀 I’m interested in Microsoft Server, VDI and SD-WAN
-- 🌱 I’m currently learning Microsoft Server AD, SCCM and PowerShell Scripting
+- 🌱 I’m currently learning ESXI and Storage and getting new skills in Linux
 - 💞️ I have foundet a Startup in Germany/BW in which we are helping out schools with VDI technologies
